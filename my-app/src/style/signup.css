@@ -1,0 +1,57 @@
+.signup{
+    display:flex ;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    width: 500px;
+    height: 600px;
+    background-color: rgb(253, 253, 253);
+    border-radius: 10px;
+    z-index: 1;
+    padding-bottom: 3rem;
+}
+
+.bg{
+    background-image: url('https://wallpaperaccess.com/full/2236616.jpg');
+    width: auto;
+    margin-top: 0px;
+    padding-top: 0rem;
+    height: 1000px;
+    
+}
+p{
+    margin-top: auto;
+    margin-bottom: auto;
+   
+    align-content: center;
+    justify-content: center;
+    display: flex;
+}
+
+.inputbox{
+    margin: auto;
+    display: flex;
+    border-radius: 5px;
+
+}
+
+.b1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    top: 500px;
+    
+}
+.inputs{
+    display: flow-root;
+    align-items: center;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}

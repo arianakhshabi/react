@@ -1,0 +1,12 @@
+h1{
+    display: flex;
+    margin: 2rem;
+    padding-top: 2rem;
+    align-items: center;
+    justify-content: center;
+}
+hr{
+    border: none;
+    height: 5px;
+    color: darkseagreen;
+}

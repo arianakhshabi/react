@@ -1,0 +1,42 @@
+.footer-container {
+    box-shadow: 0 0 10px 5px rgb(56, 51, 61);
+    background-color: #212329;
+    padding: 2rem 0 4rem 0;
+    top: 100%;
+    margin-top: auto;
+    position: sticky;
+  }
+  .footer {
+    padding: bottom 0;
+    width: 50%;
+    height: 20vh;
+    height: auto;
+    margin-bottom: 0;
+  
+    background-color: #212329;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    margin-top: auto;
+  }
+  
+  .footer-heading {
+    display: flex;
+    flex-direction: column;
+    margin-right: 4rem;
+  }
+  .footer-heading h2 {
+    margin-bottom: 2rem;
+    margin-top: 1rem;
+  }
+  .footer-heading a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    margin-bottom: 0.5rem;
+ 
+  }
+  
+  
+  
